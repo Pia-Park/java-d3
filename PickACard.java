@@ -1,7 +1,5 @@
 import java.lang.Math;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
-
 public class PickACard {
     public static void main(String[] args){
         int cardsNumber = 52;
